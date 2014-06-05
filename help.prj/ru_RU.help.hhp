@@ -1,0 +1,26 @@
+[OPTIONS]
+Compatibility=1.1 or later
+Compiled file=..\Locales\help.ru_RU.chm
+Contents file=ru_RU.help.hhc
+Default Window=Main
+Default topic=ru_RU.1.index.htm
+Display compile progress=Yes
+Full-text search=Yes
+Language=0x419 Russian
+Title=Справочная система Type it Easy
+
+[WINDOWS]
+Main=,"ru_RU.help.hhc",,,,,,,,0x2520,225,0x305e,[10,10,910,610],,,,,,,0
+
+
+[FILES]
+ru_RU.1.index.htm
+ru_RU.2.features.htm
+ru_RU.3.whatsnew.htm
+ru_RU.4.options.htm
+ru_RU.5.faq.htm
+ru_RU.6.support.htm
+ru_RU.7.references.htm
+
+[INFOTYPES]
+

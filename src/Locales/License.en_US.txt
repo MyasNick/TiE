@@ -1,0 +1,21 @@
+
+  Type it Easy
+ ———————————————————————————————
+  SOFTWARE LICENSE AGREEMENT
+ ———————————————————————————————
+
+Type it Easy is freeware. 
+
+Type it Easy is distributed “as is”.  No warranty of any kind is expressed or implied. You use it at your own risk. Nikolaj Masnikov will not be liable for data loss, damages, loss of profits or any other kind of loss while using or misusing this software.
+
+You may not alter this software in any way, including changing help and text files. 
+
+You are hereby licensed to make any number of backup copies of this free software and documentation. You can give the copy of the software to anyone or distribute the freeware version of the software providing that no additional fee is charged and the package files are not modified in any way.
+
+All copyrights to Type it Easy are exclusively owned by Nikolaj Masnikov.
+
+Installing and using Type it Easy means the acceptance of these terms and conditions of the license. If you do not agree with the terms of this license you must remove Type it Easy files from your storage devices and cease to use the product.
+
+ ———————————————————————————————
+  © Nikolaj Masnikov, 2008-2011
+  http://type-it-easy.com

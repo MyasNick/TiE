@@ -1,0 +1,47 @@
+;Key5020Normal  BITMAP "media.prj\keyboard\btn-50x20-normal.bmp"
+;Key5020Down    BITMAP "media.prj\keyboard\btn-50x20-down.bmp"
+;Key5020Active  BITMAP "media.prj\keyboard\btn-50x20-active.bmp"
+
+StdBtnActive   BITMAP "media.prj\keyboard\std-btn-active.bmp"
+StdBtnDisable  BITMAP "media.prj\keyboard\std-btn-disable.bmp"
+StdBtnDown     BITMAP "media.prj\keyboard\std-btn-down.bmp"
+StdBtnNormal   BITMAP "media.prj\keyboard\std-btn-normal.bmp"
+
+;ExitNormal  BITMAP "media.prj\keyboard\exit-normal.bmp"
+ExitDown    BITMAP "media.prj\keyboard\exit-red-down.bmp"
+ExitActive  BITMAP "media.prj\keyboard\exit-red-active.bmp"
+ExitDisable BITMAP "media.prj\keyboard\exit-disable.bmp"
+
+KeyActive   BITMAP "media.prj\keyboard\key-regular-active.bmp"
+KeyDisable  BITMAP "media.prj\keyboard\key-regular-disable.bmp"
+KeyDown     BITMAP "media.prj\keyboard\key-regular-down.bmp"
+KeyNormal   BITMAP "media.prj\keyboard\key-regular-normal.bmp"
+
+KeyBigActive   BITMAP "media.prj\keyboard\key-big-active.bmp"
+KeyBigDisable  BITMAP "media.prj\keyboard\key-big-disable.bmp"
+KeyBigDown     BITMAP "media.prj\keyboard\key-big-down.bmp"
+KeyBigNormal   BITMAP "media.prj\keyboard\key-big-normal.bmp"
+KeyBigTurnOn   BITMAP "media.prj\keyboard\key-big-turnon-green.bmp"
+
+KeyEnterActive   BITMAP "media.prj\keyboard\key-enter-active.bmp"
+KeyEnterDisable  BITMAP "media.prj\keyboard\key-enter-disable.bmp"
+KeyEnterDown     BITMAP "media.prj\keyboard\key-enter-down.bmp"
+KeyEnterNormal   BITMAP "media.prj\keyboard\key-enter-normal.bmp"
+
+KeyLeftShiftActive   BITMAP "media.prj\keyboard\key-leftshift-active.bmp"
+KeyLeftShiftDisable  BITMAP "media.prj\keyboard\key-leftshift-disable.bmp"
+KeyLeftShiftDown     BITMAP "media.prj\keyboard\key-leftshift-down.bmp"
+KeyLeftShiftNormal   BITMAP "media.prj\keyboard\key-leftshift-normal.bmp"
+KeyLeftShiftTurnOn   BITMAP "media.prj\keyboard\key-leftshift-turnon-green.bmp"
+
+KeyRightShiftActive   BITMAP "media.prj\keyboard\key-rightshift-active.bmp"
+KeyRightShiftDisable  BITMAP "media.prj\keyboard\key-rightshift-disable.bmp"
+KeyRightShiftDown     BITMAP "media.prj\keyboard\key-rightshift-down.bmp"
+KeyRightShiftNormal   BITMAP "media.prj\keyboard\key-rightshift-normal.bmp"
+KeyRightShiftTurnOn   BITMAP "media.prj\keyboard\key-rightshift-turnon-green.bmp"
+
+KeySpaceActive   BITMAP "media.prj\keyboard\key-space-active.bmp"
+KeySpaceDisable  BITMAP "media.prj\keyboard\key-space-disable.bmp"
+KeySpaceDown     BITMAP "media.prj\keyboard\key-space-down.bmp"
+KeySpaceNormal   BITMAP "media.prj\keyboard\key-space-normal.bmp"
+

@@ -1,0 +1,26 @@
+[OPTIONS]
+Compatibility=1.1 or later
+Compiled file=..\Locales\help.en_US.chm
+Contents file=en_US.help.hhc
+Default Window=Main
+Default topic=en_US.1.index.htm
+Display compile progress=Yes
+Full-text search=Yes
+Language=0x409 English (United States)
+Title=Type it Easy Help System
+
+[WINDOWS]
+Main=,"en_US.help.hhc",,,,,,,,0x2520,225,0x305e,[10,10,910,610],,,,,,,0
+
+
+[FILES]
+en_US.1.index.htm
+en_US.2.features.htm
+en_US.3.whatsnew.htm
+en_US.4.options.htm
+en_US.5.faq.htm
+en_US.6.support.htm
+en_US.7.references.htm
+
+[INFOTYPES]
+
