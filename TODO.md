@@ -20,3 +20,5 @@ Type it Easy. To Do
 * Finish English help system
 * Finish Russian help system
 * Add Caps Lock support
+
+* Porting TiE to Free Pascal (?)
