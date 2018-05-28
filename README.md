@@ -13,13 +13,12 @@ License
 
 Type it Easy is licensed under Apache 2 license. For details see the LICENSE file.
 
+Installation pack
+-----------------
+
+[Download on DropBox →](https://www.dropbox.com/s/lnltvxwk1rub2ut/typeiteasy.setup.exe?dl=0)
+
 Developers and contributors
 ---------------------------
 
-* **Nikolaj Masnikov**, [nikolaj@masnikov.com](mailto:nikolaj@masnikov.com), [myasnick.com](http://myasnick.com)
-
-Project Homepages
------------------
-
-* International: [type-it-easy.com](http://www.type-it-easy.com)
-* Russian: [myasnick.com/soft/typeiteasy](http://myasnick.com/soft/typeiteasy/)
+* **Nikolaj Masnikov**, [masnikov@gmail.com](mailto:masnikov@gmail.com)
