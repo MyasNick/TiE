@@ -1,0 +1,99 @@
+TUCLinePrinter v1.0, Freeware by UCSoft <info@ucsoft.de>, 15-02-2001
+
+-------------------
+Description
+-------------------
+
+UCLinePrinter is a simple printing component. It may be useful for
+fast printouts (e.g. log files).
+This component uses TPrinter for printing, so there's no printer
+setup (except PrintTitle), just make the desired settings for the
+global printer instance before using the Print-Method of UCLinePrinter.
+
+-------------------
+Author
+-------------------
+(c) 2001 by Ulli Conrad <info@ucsoft.de>
+The latest version can be found at http://www.ucsoft.de/
+
+-------------------
+Distribution
+-------------------
+
+This component is freeware. As such, UCSoft gives no warranty
+to its accuracy, fitness for any particular use, effects of use, or
+reliability. This component may not be distributed as a part of another
+component package without UCSoft's written consent. It may be
+freely distributed, although it must be distributed with all original files
+in their original format intact. If you use this component in your
+software, please include an acknowledgment that portions are copyrighted by
+UCSoft. Please contact the author, Ulli Conrad, at the above addresses with
+questions, comments, bug-reports or any updates you make to the component.
+
+-------------------
+Installation
+-------------------
+
+Unzip files to a directory of your choice.
+Select "Component - Install component" from the Delphi menu.
+Choose wether to add component to a new or an existing package and specify packages
+name.
+Browse for units file name which is "UCStatusbarAutofeed.pas" and click "OK".
+Let package be compiled and save it when it's closed.
+You'll find the component in the tab sheet "UCSoft".
+
+-------------------
+Hierachy
+-------------------
+
+TUCLinePrinter is a TComponent descendand
+
+-------------------
+Properties
+-------------------
+
+property Font : TFont;
+  Font properties used for printout.
+
+property Lines : TStrings;
+  Lines to be printed.
+
+property Margins : TUCLinePrinterMargins;
+  Margins and units on printout page.
+
+property PrintPageNumbers : boolean;
+  Appends current page number and total pages to PrintTitle wif
+  set true.
+  
+property PrintTitle : string;
+  Name of the print job (displayed in printer queue). This
+  title can be additional be printed on each page.
+
+property TitleOnPrintout : TPrintTitlePlacement;
+  Specifies if and where the PrintTitle property is placed
+  on all pages of the printout. If PrintTitle is printed it
+  will be centered horizontally (within left and right margin).
+  
+property WordWrap : boolean;
+  An automatical word wrap is done if set to true.
+
+
+-------------------
+Methods
+-------------------
+
+procedure Print;
+  Starts the printing on the printer set in
+
+-------------------
+Events
+-------------------
+
+OnNextPage = procedure(Sender : TObject;PageNo,TotalPages : integer);
+  Occurs when a new page is printed. First page has PageNo=1.
+
+OnStartPrint = procedure(Sender : TObject);
+  Occurs when printing is started.
+
+OnEndPrint = procedure(Sender : TObject);
+  Occurs when printing is finished.

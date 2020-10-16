@@ -1,0 +1,54 @@
+package real_d7;
+
+{$R *.res}
+{$R 'RealLabel.dcr'}
+{$R 'RealSpeedButton.dcr'}
+{$R 'RealPrinter.dcr'}
+{$R 'RealSysInfo.dcr'}
+{$R 'RealKeyState.dcr'}
+{$R 'RealClipboardViewer.dcr'}
+{$R 'RealMultiPanel.dcr'}
+{$R 'RealPageControl.dcr'}
+{$R 'RealStrings.dcr'}
+{$R 'RealKey.dcr'}
+{$ALIGN 8}
+{$ASSERTIONS ON}
+{$BOOLEVAL OFF}
+{$DEBUGINFO ON}
+{$EXTENDEDSYNTAX ON}
+{$IMPORTEDDATA ON}
+{$IOCHECKS ON}
+{$LOCALSYMBOLS ON}
+{$LONGSTRINGS ON}
+{$OPENSTRINGS ON}
+{$OPTIMIZATION ON}
+{$OVERFLOWCHECKS OFF}
+{$RANGECHECKS OFF}
+{$REFERENCEINFO OFF}
+{$SAFEDIVIDE OFF}
+{$STACKFRAMES OFF}
+{$TYPEDADDRESS OFF}
+{$VARSTRINGCHECKS ON}
+{$WRITEABLECONST ON}
+{$MINENUMSIZE 1}
+{$IMAGEBASE $400000}
+{$DESCRIPTION 'Real VCL by Nikolaj Masnikov • http://masnikov.com'}
+{$IMPLICITBUILD OFF}
+
+requires
+  rtl,
+  vcl;
+
+contains
+  RealStrings in 'RealStrings.pas',
+  RealLabel in 'RealLabel.pas',
+  RealSpeedButton in 'RealSpeedButton.pas',
+  RealPrinter in 'RealPrinter.pas',
+  RealSysInfo in 'RealSysInfo.pas',
+  RealKeyState in 'RealKeyState.pas',
+  RealClipboardViewer in 'RealClipboardViewer.pas',
+  RealMultiPanel in 'RealMultiPanel.pas',
+  RealPageControl in 'RealPageControl.pas',
+  RealKey in 'RealKey.pas';
+
+end.
