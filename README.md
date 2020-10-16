@@ -22,3 +22,8 @@ Developers and contributors
 ---------------------------
 
 * **Nikolaj Masnikov**, [masnikov@gmail.com](mailto:masnikov@gmail.com)
+
+Update from 2020.10.16
+----------------------
+
+* Added totally forgotten custom components: RealVCL.
