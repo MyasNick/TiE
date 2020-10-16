@@ -11,7 +11,7 @@ It works very simply: just hold down the right Alt key (AltGr) and press the nec
 License
 -------
 
-Type it Easy is licensed under Apache 2 license. For details see the LICENSE file.
+Type it Easy is licensed under Apache 2 license. For details see the LICENSE.md file.
 
 Installation pack
 -----------------
