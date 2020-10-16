@@ -18,12 +18,13 @@ Installation pack
 
 [Download on DropBox →](https://www.dropbox.com/s/lnltvxwk1rub2ut/typeiteasy.setup.exe?dl=0)
 
-Developers and contributors
----------------------------
+Developer
+---------
 
-* **Nikolaj Masnikov**, [masnikov@gmail.com](mailto:masnikov@gmail.com)
+**Nikolaj Masnikov**, [masnikov@gmail.com](mailto:masnikov@gmail.com)
 
 Update from 2020.10.16
 ----------------------
 
 * Added totally forgotten custom components: RealVCL.
+* Some minor updates in text files.
